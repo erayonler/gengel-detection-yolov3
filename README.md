@@ -20,4 +20,4 @@ and then we tested our trained model on a video file:
 * drawing bounding boxes and adding text to that box
 * writing processed frames to a new video file
 
-<img src="gengel_detection_on_video"></img>
+<img src="gengel_detection_on_video.png"></img>
