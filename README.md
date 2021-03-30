@@ -26,6 +26,6 @@ and then we tested our trained model on a video file by using [OpenCV library](h
 * avg loss reached to 0.08 (this is not very good, it is suggested to stop training below 0.0607)
 * dataset is very limited (just 80 sample). need more data to increase accuracy
 * we can tweak network parameters to have robust detector
-* it takes ~9 hours of training
+* it took ~9 hours of training
 
 https://youtu.be/KEVcDBP8ey4
