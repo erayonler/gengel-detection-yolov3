@@ -8,7 +8,7 @@ YOLO is well known and famous object detector. In this study we used YOLOv3 to d
 
 <img src="gengel_dataset.png"></img>
 
-and then we tested our trained model on a video file:
+and then we tested our trained model on a video file by using <a href src="opencv.org">OpenCV library</a>:
 
 * reading input video
 * loading YOLOv3 Network with pretrained weights
