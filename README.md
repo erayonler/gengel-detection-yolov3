@@ -2,7 +2,7 @@
 
 YOLO is well known and famous object detector. In this study we used YOLOv3 to detect cardoon on an image(video or even live video)
 
-1. we prepared dataset consist of 80 images of cardoon which are taken from the field.
+1. we prepared dataset consist of 80 images of cardoon which are taken from the field bys using free annotation tool <a href src="https://github.com/tzutalin/labelImg">LabelIMG</a>.
 3. Trained a YOLOv3 model with that custom dataset on <a href="colab.research.google.com">GOOGLE COLAB</a> tool
 4. Saved these trained weights to try on test video
 
