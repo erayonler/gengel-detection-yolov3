@@ -6,7 +6,7 @@ YOLO is well known and famous object detector. In this study we used YOLOv3 to d
 3. Trained a YOLOv3 model with that custom dataset on <a href="colab.research.google.com">GOOGLE COLAB</a> tool
 4. Saved these trained weights to try on test video
 
-<img>gengel_dataset.png</img>
+<img src="gengel_dataset.png"></img>
 
 and then we tested our trained model on a video file:
 
