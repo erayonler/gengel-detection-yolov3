@@ -23,7 +23,7 @@ and then we tested our trained model on a video file by using [OpenCV library](h
 <img src="gengel_detection_on_video.png"></img>
 
 # Results
-* avg accuracy reached to 0.08 (this is not very good, it is suggested to stop training below 0.0607)
+* avg loss reached to 0.08 (this is not very good, it is suggested to stop training below 0.0607)
 * dataset is very limited (just 80 sample). need more data to increase accuracy
 * we can tweak network parameters to have robust detector
 * it takes ~9 hours of training
