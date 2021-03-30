@@ -1,6 +1,6 @@
 # gengel-detection-yolov3
 
-<a href src="https://pjreddie.com/darknet/yolo/" target="_blank">YOLO</a> is well known and famous object detector. In this study we used YOLOv3 to detect cardoon on an image(video or even live video)
+[YOLO](https://pjreddie.com/darknet/yolo/) is well known and famous object detector. In this study we used YOLOv3 to detect cardoon on an image(video or even live video)
 
 1. we prepared dataset consist of 80 images of cardoon which are taken from the field bys using free annotation tool <a href src="https://github.com/tzutalin/labelImg">LabelIMG</a>.
 3. Trained a YOLOv3 model with that custom dataset on <a href="colab.research.google.com" target="_blank">GOOGLE COLAB</a> tool
